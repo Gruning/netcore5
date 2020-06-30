@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Net5_DataAccess/1.0.0": {
+        "dependencies": {
+          "Net5_Model": "1.0.0"
+        },
+        "runtime": {
+          "Net5_DataAccess.dll": {}
+        }
+      },
+      "Net5_Model/1.0.0": {
+        "runtime": {
+          "Net5_Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Net5_DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Net5_Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,9 @@
+C:\Users\AlbertoGruning\sourcePersonal\repos\Net5_001\Net5_Model\bin\Debug\net5.0\Net5_Model.deps.json
+C:\Users\AlbertoGruning\sourcePersonal\repos\Net5_001\Net5_Model\bin\Debug\net5.0\Net5_Model.dll
+C:\Users\AlbertoGruning\sourcePersonal\repos\Net5_001\Net5_Model\bin\Debug\net5.0\Net5_Model.pdb
+C:\Users\AlbertoGruning\sourcePersonal\repos\Net5_001\Net5_Model\obj\Debug\net5.0\Net5_Model.csprojAssemblyReference.cache
+C:\Users\AlbertoGruning\sourcePersonal\repos\Net5_001\Net5_Model\obj\Debug\net5.0\Net5_Model.AssemblyInfoInputs.cache
+C:\Users\AlbertoGruning\sourcePersonal\repos\Net5_001\Net5_Model\obj\Debug\net5.0\Net5_Model.AssemblyInfo.cs
+C:\Users\AlbertoGruning\sourcePersonal\repos\Net5_001\Net5_Model\obj\Debug\net5.0\Net5_Model.csproj.CoreCompileInputs.cache
+C:\Users\AlbertoGruning\sourcePersonal\repos\Net5_001\Net5_Model\obj\Debug\net5.0\Net5_Model.dll
+C:\Users\AlbertoGruning\sourcePersonal\repos\Net5_001\Net5_Model\obj\Debug\net5.0\Net5_Model.pdb

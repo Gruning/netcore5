@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "gmvhvsi1oMpEzIA4WGsOeBFz+Obrg4AxqOekBLYNRhkERT65ZCoSURRhfYmy/AB8W9drNAgz7OBiEX78IfHuog==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AlbertoGruning\\sourcePersonal\\repos\\Net5_001\\Net5_001\\Net5_001.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AlbertoGruning\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\5.0.0-preview.6.20312.15\\microsoft.aspnetcore.mvc.razor.extensions.5.0.0-preview.6.20312.15.nupkg.sha512",
+    "C:\\Users\\AlbertoGruning\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\5.0.0-preview.6.20312.15\\microsoft.aspnetcore.mvc.razor.runtimecompilation.5.0.0-preview.6.20312.15.nupkg.sha512",
+    "C:\\Users\\AlbertoGruning\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\5.0.0-preview.6.20312.15\\microsoft.aspnetcore.razor.language.5.0.0-preview.6.20312.15.nupkg.sha512",
+    "C:\\Users\\AlbertoGruning\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\2.9.6\\microsoft.codeanalysis.analyzers.2.9.6.nupkg.sha512",
+    "C:\\Users\\AlbertoGruning\\.nuget\\packages\\microsoft.codeanalysis.common\\3.4.0\\microsoft.codeanalysis.common.3.4.0.nupkg.sha512",
+    "C:\\Users\\AlbertoGruning\\.nuget\\packages\\microsoft.codeanalysis.csharp\\3.4.0\\microsoft.codeanalysis.csharp.3.4.0.nupkg.sha512",
+    "C:\\Users\\AlbertoGruning\\.nuget\\packages\\microsoft.codeanalysis.razor\\5.0.0-preview.6.20312.15\\microsoft.codeanalysis.razor.5.0.0-preview.6.20312.15.nupkg.sha512",
+    "C:\\Users\\AlbertoGruning\\.nuget\\packages\\microsoft.extensions.dependencymodel\\5.0.0-preview.6.20305.6\\microsoft.extensions.dependencymodel.5.0.0-preview.6.20305.6.nupkg.sha512",
+    "C:\\Users\\AlbertoGruning\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
+    "C:\\Users\\AlbertoGruning\\.nuget\\packages\\system.collections.immutable\\1.5.0\\system.collections.immutable.1.5.0.nupkg.sha512",
+    "C:\\Users\\AlbertoGruning\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\AlbertoGruning\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512",
+    "C:\\Users\\AlbertoGruning\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\AlbertoGruning\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1\\system.text.encoding.codepages.4.5.1.nupkg.sha512",
+    "C:\\Users\\AlbertoGruning\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.3\\system.threading.tasks.extensions.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Users\AlbertoGruning\sourcePersonal\repos\Net5_001\Net5_DataAccess\bin\Debug\net5.0\Net5_DataAccess.deps.json
+C:\Users\AlbertoGruning\sourcePersonal\repos\Net5_001\Net5_DataAccess\bin\Debug\net5.0\Net5_DataAccess.dll
+C:\Users\AlbertoGruning\sourcePersonal\repos\Net5_001\Net5_DataAccess\bin\Debug\net5.0\Net5_DataAccess.pdb
+C:\Users\AlbertoGruning\sourcePersonal\repos\Net5_001\Net5_DataAccess\bin\Debug\net5.0\Net5_Model.dll
+C:\Users\AlbertoGruning\sourcePersonal\repos\Net5_001\Net5_DataAccess\bin\Debug\net5.0\Net5_Model.pdb
+C:\Users\AlbertoGruning\sourcePersonal\repos\Net5_001\Net5_DataAccess\obj\Debug\net5.0\Net5_DataAccess.csprojAssemblyReference.cache
+C:\Users\AlbertoGruning\sourcePersonal\repos\Net5_001\Net5_DataAccess\obj\Debug\net5.0\Net5_DataAccess.AssemblyInfoInputs.cache
+C:\Users\AlbertoGruning\sourcePersonal\repos\Net5_001\Net5_DataAccess\obj\Debug\net5.0\Net5_DataAccess.AssemblyInfo.cs
+C:\Users\AlbertoGruning\sourcePersonal\repos\Net5_001\Net5_DataAccess\obj\Debug\net5.0\Net5_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\AlbertoGruning\sourcePersonal\repos\Net5_001\Net5_DataAccess\obj\Debug\net5.0\Net5_DataAccess.csproj.CopyComplete
+C:\Users\AlbertoGruning\sourcePersonal\repos\Net5_001\Net5_DataAccess\obj\Debug\net5.0\Net5_DataAccess.dll
+C:\Users\AlbertoGruning\sourcePersonal\repos\Net5_001\Net5_DataAccess\obj\Debug\net5.0\Net5_DataAccess.pdb
