@@ -1,0 +1,6 @@
+bin/
+obj/
+Net5_DataAccess/obj/
+Net5_001/obj/
+Net5_001/bin/
+Net5_DataAccess/bin/
