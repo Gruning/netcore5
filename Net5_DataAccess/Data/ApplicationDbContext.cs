@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using Net5_Model.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,5 +12,6 @@ namespace Net5_DataAccess.Data
     {
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options):base (options){}
 
+        public DbSet<Category> Categories { get; set; }
     }
 }
